@@ -1,4 +1,11 @@
-# Team 3 Code File
+# Pepperdine | Team 3
+* Zhu, Xingang | <Zayden.Zhu@pepperdine.edu>
+* Bai, Jing | <Jing.Bai2@pepperdine.edu>
+* Bai, Zhe | <Zhe.Bai@pepperdine.edu>
+* Wang, Qiushi | <Qiushi.Wang@pepperdine.edu>
+* Xie, Youkun | <Youkun.Xie@pepperdine.edu>
+* Yu, Siying | <Siying.Yu@pepperdine.edu>
+
 ### TOCA.sql: 
 * Data Cleaning 
 * Data Transforming
