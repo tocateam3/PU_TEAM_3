@@ -1,4 +1,4 @@
-# Pepperdine | Team 3
+# Pepperdine | Team 3 Name
 * Zhu, Xingang | <Zayden.Zhu@pepperdine.edu>
 * Bai, Jing | <Jing.Bai2@pepperdine.edu>
 * Bai, Zhe | <Zhe.Bai@pepperdine.edu>
@@ -6,6 +6,7 @@
 * Xie, Youkun | <Youkun.Xie@pepperdine.edu>
 * Yu, Siying | <Siying.Yu@pepperdine.edu>
 
+## Code Files
 ### TOCA.sql: 
 * Data Cleaning 
 * Data Transforming
@@ -22,6 +23,7 @@
 * Extract Data from Json Columns in Database
 * Flatten Json
 
+## Tableau Files
 ### toca football.twbx:
 * Tableau Graph
 * Tableau Dashboard
